@@ -1,0 +1,1 @@
+Implemented a custom string library in C, recreating standard string functions such as strlen, strcpy, strncpy, strcat, strcmp, strchr, and others. Gained practical experience in memory management, pointer arithmetic, buffer handling, and low-level string manipulation.
